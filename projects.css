@@ -1,0 +1,13 @@
+.site-top {
+    background-color: rgb(0, 225, 255);
+    height: 300px;
+    text-align: center;
+}
+
+.title {
+    font-size: 50px;
+}
+
+.site-bottom {
+    background-color: rgb(0, 72, 255);
+}
