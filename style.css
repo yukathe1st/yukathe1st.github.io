@@ -1,7 +1,7 @@
 .hey {
     font-size: 150px;
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Arial Rounded MT Bold;
     display: flex;
     justify-content: center;
     margin-top: 100px;
@@ -48,8 +48,9 @@
 }
 
 .projekte {
-    margin-top: 50px;
+    margin-top: -60px;
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 60px;
+    text-align: center;
 }
