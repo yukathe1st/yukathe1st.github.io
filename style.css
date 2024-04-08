@@ -54,3 +54,14 @@
     font-size: 60px;
     text-align: center;
 }
+
+.projekte button {
+    background-color: rgb(247, 0, 255);
+    height: 150px;
+    width: 350px;
+    font-size: 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 45px;
+}
