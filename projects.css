@@ -1,5 +1,5 @@
 .site-top {
-    background-color: rgb(0, 139, 158);
+    background-color: rgb(72, 255, 0);
     height: 125px;
     text-align: center;
     margin-top: -90px;
@@ -10,26 +10,20 @@
 }
 
 .site-bottom {
-    background-color: rgb(0, 72, 255);
-    height: 700px;
+    background-color: rgb(0, 183, 255);
+    height: 1000px;
     margin-left: -50px;
     margin-right: -50px;
     margin-bottom: -20px;
 }
 
-.projects-table {
-    text-align: center;
-    justify-content: center;
-    justify-self: center;
-}
-
-.projects-table h1 {
-    display: flex;
-    font-size: 100px;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
 .center {
     justify-content: center;
     display: flex;
+}
+
+.projekt1 {
+    font-size: 30px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
 }
