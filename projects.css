@@ -4,7 +4,6 @@
     text-align: center;
     margin-top: -90px;
     font-size: 65px;
-    width: auto;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
@@ -32,4 +31,8 @@
     font-size: 25px;
     display: flex;
     text-align: center;
+}
+
+body {
+    margin: 0;
 }
