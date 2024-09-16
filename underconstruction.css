@@ -1,5 +1,11 @@
 .ucr {
     justify-content: center;
     display: flex;
-    width: 70%;
+}
+
+.uc {
+    font-size: 30px;
+    font-family: arial rounded mt bold;
+    justify-content: center;
+    display: flex;
 }
