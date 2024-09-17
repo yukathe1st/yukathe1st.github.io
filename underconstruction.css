@@ -1,6 +1,7 @@
 .ucr {
     justify-content: center;
     display: flex;
+    align-items: center;
 }
 
 .uc {
@@ -8,4 +9,8 @@
     font-family: arial rounded mt bold;
     justify-content: center;
     display: flex;
+}
+
+.gif {
+    width: 370px;
 }
