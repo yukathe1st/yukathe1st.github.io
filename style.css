@@ -1,0 +1,26 @@
+@font-face {
+    font-family: DB;
+    src: url(fonts/Dongle-Bold.ttf);
+    font-weight: bold;
+  }
+
+  @font-face {
+    font-family: DBL;
+    src: url(fonts/Dongle-Light.ttf);
+    font-weight: bold;
+  }
+
+#hey {
+    font-family: DB;
+    font-size: 100px;
+}
+
+#heyunder {
+    font-family: DBL;
+    font-size: 70px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
